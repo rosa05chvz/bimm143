@@ -7,7 +7,7 @@ This repo is for my UCSD bioinformatics class
 
 - **Class 6** [R Functions](https://github.com/rosa05chvz/bimm143/blob/main/class06/06_lab_6_RFunctions.pdf)
 
-- **Class 7** [Welcome to Bioinformatics]([https://bioboot.github.io/bimm143_S24/](https://bioboot.github.io/bimm143_S24/schedule/#5)
+- **Class 7** [Machine Learning](https://github.com/rosa05chvz/bimm143/blob/main/class07/Lab_07.pdf)
 
 - **Class 8** [Mini-Project:Unsupervised Learning Analysis of Human Breast Cancer Cells](https://github.com/rosa05chvz/bimm143/blob/main/class08/Lab8%20Completed%20Version.pdf)
 
